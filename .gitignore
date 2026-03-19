@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local data (DO NOT PUSH)
+db/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
